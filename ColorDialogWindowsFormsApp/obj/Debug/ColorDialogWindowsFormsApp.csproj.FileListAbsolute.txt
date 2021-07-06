@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\bin\Debug\ColorDialogWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\bin\Debug\ColorDialogWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\bin\Debug\ColorDialogWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ColorDialogWindowsFormsApp\obj\Debug\ColorDialogWindowsFormsApp.Form2.resources
