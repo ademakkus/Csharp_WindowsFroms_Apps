@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\bin\Debug\ProgressBar2WindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\bin\Debug\ProgressBar2WindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\bin\Debug\ProgressBar2WindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ProgressBar2WindowsFormsApp\obj\Debug\ProgressBar2WindowsFormsApp.pdb
