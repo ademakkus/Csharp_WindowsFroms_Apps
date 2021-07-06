@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\bin\Debug\GroupBoxNUmericRadioWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\bin\Debug\GroupBoxNUmericRadioWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\bin\Debug\GroupBoxNUmericRadioWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\GroupBoxNUmericRadioWindowsFormsApp\obj\Debug\GroupBoxNUmericRadioWindowsFormsApp.pdb
