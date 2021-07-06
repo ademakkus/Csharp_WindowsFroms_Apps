@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\bin\Debug\RadioGroupBoxButtonWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\bin\Debug\RadioGroupBoxButtonWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\bin\Debug\RadioGroupBoxButtonWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\RadioGroupBoxButtonWindowsFormsApp\obj\Debug\RadioGroupBoxButtonWindowsFormsApp.pdb
