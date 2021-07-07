@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\bin\Debug\ComboBoxWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\bin\Debug\ComboBoxWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\bin\Debug\ComboBoxWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ComboBoxWindowsFormsApp\obj\Debug\ComboBoxWindowsFormsApp.pdb
