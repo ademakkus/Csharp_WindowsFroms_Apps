@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\bin\Debug\TimerWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\bin\Debug\TimerWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\bin\Debug\TimerWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TimerWindowsFormsApp\obj\Debug\TimerWindowsFormsApp.csproj.AssemblyReference.cache

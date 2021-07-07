@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\bin\Debug\TextFontPropCopyPastWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\bin\Debug\TextFontPropCopyPastWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\bin\Debug\TextFontPropCopyPastWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\obj\Debug\TextFontPropCopyPastWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\obj\Debug\TextFontPropCopyPastWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\obj\Debug\TextFontPropCopyPastWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\obj\Debug\TextFontPropCopyPastWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\obj\Debug\TextFontPropCopyPastWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TextFontPropCopyPastWindowsFormsApp\obj\Debug\TextFontPropCopyPastWindowsFormsApp.pdb
