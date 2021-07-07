@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\bin\Debug\PanelWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\bin\Debug\PanelWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\bin\Debug\PanelWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\obj\Debug\PanelWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\obj\Debug\PanelWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\obj\Debug\PanelWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\obj\Debug\PanelWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\obj\Debug\PanelWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\PanelWindowsFormsApp\obj\Debug\PanelWindowsFormsApp.pdb

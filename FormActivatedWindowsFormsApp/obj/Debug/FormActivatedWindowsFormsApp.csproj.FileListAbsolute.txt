@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\bin\Debug\FormActivatedWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\bin\Debug\FormActivatedWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\bin\Debug\FormActivatedWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\FormActivatedWindowsFormsApp\obj\Debug\FormActivatedWindowsFormsApp.pdb
