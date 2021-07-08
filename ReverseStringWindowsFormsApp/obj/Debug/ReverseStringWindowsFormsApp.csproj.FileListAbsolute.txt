@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\bin\Debug\ReverseStringWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\bin\Debug\ReverseStringWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\bin\Debug\ReverseStringWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ReverseStringWindowsFormsApp\obj\Debug\ReverseStringWindowsFormsApp.pdb
