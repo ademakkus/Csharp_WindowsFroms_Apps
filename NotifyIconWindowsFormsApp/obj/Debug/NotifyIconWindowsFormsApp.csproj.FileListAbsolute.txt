@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\bin\Debug\NotifyIconWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\bin\Debug\NotifyIconWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\bin\Debug\NotifyIconWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\obj\Debug\NotifyIconWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\obj\Debug\NotifyIconWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\obj\Debug\NotifyIconWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\obj\Debug\NotifyIconWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\obj\Debug\NotifyIconWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\NotifyIconWindowsFormsApp\obj\Debug\NotifyIconWindowsFormsApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\bin\Debug\TabbedPageWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\bin\Debug\TabbedPageWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\bin\Debug\TabbedPageWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\TabbedPageWindowsFormsApp\obj\Debug\TabbedPageWindowsFormsApp.pdb
