@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\bin\Debug\SinemaWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\bin\Debug\SinemaWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\bin\Debug\SinemaWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\SinemaWindowsFormsApp\obj\Debug\SinemaWindowsFormsApp.pdb
