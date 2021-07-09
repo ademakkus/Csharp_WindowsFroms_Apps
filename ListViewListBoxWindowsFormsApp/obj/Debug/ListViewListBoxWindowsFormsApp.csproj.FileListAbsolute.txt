@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\bin\Debug\ListViewListBoxWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\bin\Debug\ListViewListBoxWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\bin\Debug\ListViewListBoxWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ListViewListBoxWindowsFormsApp\obj\Debug\ListViewListBoxWindowsFormsApp.pdb
