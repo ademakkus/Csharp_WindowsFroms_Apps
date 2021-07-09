@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\bin\Debug\XMLWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\bin\Debug\XMLWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\bin\Debug\XMLWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\XMLWindowsFormsApp\obj\Debug\XMLWindowsFormsApp.frmGiris.resources
