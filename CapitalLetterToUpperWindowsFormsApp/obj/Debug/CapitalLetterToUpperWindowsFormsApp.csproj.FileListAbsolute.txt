@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\bin\Debug\CapitalLetterToUpperWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\bin\Debug\CapitalLetterToUpperWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\bin\Debug\CapitalLetterToUpperWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\obj\Debug\CapitalLetterToUpperWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\obj\Debug\CapitalLetterToUpperWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\obj\Debug\CapitalLetterToUpperWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\obj\Debug\CapitalLetterToUpperWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\obj\Debug\CapitalLetterToUpperWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\CapitalLetterToUpperWindowsFormsApp\obj\Debug\CapitalLetterToUpperWindowsFormsApp.pdb
