@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\bin\Debug\ToolTipWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\bin\Debug\ToolTipWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\bin\Debug\ToolTipWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\ToolTipWindowsFormsApp\obj\Debug\ToolTipWindowsFormsApp.pdb
