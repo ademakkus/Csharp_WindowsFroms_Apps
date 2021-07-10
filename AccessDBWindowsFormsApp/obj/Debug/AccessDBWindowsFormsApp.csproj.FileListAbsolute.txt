@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\bin\Debug\bin\Debug\ogrenciler.mdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\bin\Debug\AccessDBWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\bin\Debug\AccessDBWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\bin\Debug\AccessDBWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\AccessDBWindowsFormsApp\obj\Debug\AccessDBWindowsFormsApp.pdb
