@@ -1,0 +1,5 @@
+
+      adapter.Fill(ds,"bolumler");
+      cmbBolumAdi.DataSource = ds.Tables["bolumler"];
+      cmbBolumAdi.DisplayMember = "badi";   //bolumler tablosundaki bölüm adı
+      cmbBolumAdi.ValueMember = "bkodu";    //bolumler tablosundaki bölüm kodu

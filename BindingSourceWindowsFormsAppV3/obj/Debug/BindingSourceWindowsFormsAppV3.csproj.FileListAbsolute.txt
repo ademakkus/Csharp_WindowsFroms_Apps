@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.Form2.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\bin\Debug\bin\Debug\ogrenciler.mdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\bin\Debug\BindingSourceWindowsFormsAppV3.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\bin\Debug\BindingSourceWindowsFormsAppV3.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\bin\Debug\BindingSourceWindowsFormsAppV3.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsAppV3\obj\Debug\BindingSourceWindowsFormsAppV3.pdb
