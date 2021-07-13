@@ -1,0 +1,11 @@
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\bin\Debug\BindingSourceWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\bin\Debug\BindingSourceWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\bin\Debug\BindingSourceWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.exe
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\obj\Debug\BindingSourceWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\BeyzaNurEkizCharpNYP\BindingSourceWindowsFormsApp\bin\Debug\bin\Debug\ogrenciler.mdb
