@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\bin\Debug\PieChartSaveAsImageWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\bin\Debug\PieChartSaveAsImageWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\bin\Debug\PieChartSaveAsImageWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartSaveAsImageWindowsFormsApp\obj\Debug\PieChartSaveAsImageWindowsFormsApp.csproj.AssemblyReference.cache

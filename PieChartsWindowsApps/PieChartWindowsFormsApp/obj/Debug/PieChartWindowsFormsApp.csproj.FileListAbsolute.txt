@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\bin\Debug\PieChartWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\bin\Debug\PieChartWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\bin\Debug\PieChartWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\obj\Debug\PieChartWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\obj\Debug\PieChartWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\obj\Debug\PieChartWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\obj\Debug\PieChartWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\obj\Debug\PieChartWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartWindowsFormsApp\obj\Debug\PieChartWindowsFormsApp.pdb
