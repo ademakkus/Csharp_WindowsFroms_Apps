@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.Form1.resources
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.Properties.Resources.resources
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\bin\Debug\EatergameWindowsFormsAppV2.exe.config
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\bin\Debug\EatergameWindowsFormsAppV2.exe
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\bin\Debug\EatergameWindowsFormsAppV2.pdb
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.exe
+C:\Users\mypc\source\repos\EatergameSolution\EatergameWindowsFormsAppV2\obj\Debug\EatergameWindowsFormsAppV2.pdb
