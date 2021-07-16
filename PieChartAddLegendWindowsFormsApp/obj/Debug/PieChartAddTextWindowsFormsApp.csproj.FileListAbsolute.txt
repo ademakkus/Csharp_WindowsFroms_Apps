@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\obj\Debug\PieChartAddTextWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\obj\Debug\PieChartAddTextWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\obj\Debug\PieChartAddTextWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\obj\Debug\PieChartAddTextWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\bin\Debug\PieChartAddTextWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\bin\Debug\PieChartAddTextWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\bin\Debug\PieChartAddTextWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\obj\Debug\PieChartAddTextWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddTextWindowsFormsApp\obj\Debug\PieChartAddTextWindowsFormsApp.pdb

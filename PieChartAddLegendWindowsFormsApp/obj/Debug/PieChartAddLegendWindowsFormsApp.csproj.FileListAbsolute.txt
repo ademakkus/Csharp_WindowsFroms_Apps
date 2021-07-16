@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\bin\Debug\PieChartAddLegendWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\bin\Debug\PieChartAddLegendWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\bin\Debug\PieChartAddLegendWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\obj\Debug\PieChartAddLegendWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\obj\Debug\PieChartAddLegendWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\obj\Debug\PieChartAddLegendWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\obj\Debug\PieChartAddLegendWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\obj\Debug\PieChartAddLegendWindowsFormsApp.exe
+C:\Users\mypc\source\repos\PieChartsWindowsApps\PieChartAddLegendWindowsFormsApp\obj\Debug\PieChartAddLegendWindowsFormsApp.pdb
