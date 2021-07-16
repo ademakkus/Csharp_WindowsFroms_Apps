@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace EatergameWindowsFormsApp
+{
+  public partial class Form1 : Form
+  {
+    private readonly Eater TheEater = new Eater(100, 100); 
+    private const int NUMBEROFSTONES = 25;
+    private ArrayList Stones = new ArrayList(NUMBEROFSTONES);
+   
+    private Random random = new Random();
+    public Form1()
+    {
+      InitializeComponent();
+      InitializeStone();
+    }
+    private void  InitializeStone()
+    {
+      for (int i = 0; i < NUMBEROFSTONES; i++)
+      {
+        Stones.Add(new Stone(random.Next(10,ClientRectangle.Right-10), random.Next(10, ClientRectangle.Bottom- 30)));
+      }
+    }
+    private void Form1_Paint(object sender, PaintEventArgs e)
+    {
+      Graphics g = e.Graphics;
+      g.FillRectangle(Brushes.White, 0, 0, this.ClientRectangle.Width, this.ClientRectangle.Height);
+      for (int i = 0; i < NUMBEROFSTONES; i++)
+      {
+        ((Stone)Stones[i]).Draw(g);
+      }
+      
+      TheEater.Draw(g);
+    }
+
+    private void Form1_KeyDown(object sender, KeyEventArgs e)
+    {
+      string result = e.KeyData.ToString();
+      Invalidate(TheEater.GetFrame());
+      switch (result)
+      {
+        case "Left":TheEater.MoveLeft(ClientRectangle);break;
+        case "Right":TheEater.MoveRight(ClientRectangle);break;
+        case "Up":TheEater.MoveUp(ClientRectangle);break;
+        case "Down":TheEater.MoveDown(ClientRectangle);break;
+        default:
+          break;
+      }
+      Invalidate(TheEater.GetFrame());
+    }
+  }
+}
