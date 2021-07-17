@@ -1,0 +1,10 @@
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\bin\Debug\SerilizationWindowsFormsApp.exe.config
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\bin\Debug\SerilizationWindowsFormsApp.exe
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\bin\Debug\SerilizationWindowsFormsApp.pdb
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.Form1.resources
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.Properties.Resources.resources
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.exe
+C:\Users\mypc\source\repos\SerilizationWindowsFormsApp\SerilizationWindowsFormsApp\obj\Debug\SerilizationWindowsFormsApp.pdb
